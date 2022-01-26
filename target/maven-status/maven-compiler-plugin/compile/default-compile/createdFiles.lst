@@ -1,0 +1,3 @@
+org\hmorales\webapp\jaxws\services\ServicioWs.class
+org\hmorales\webapp\jaxws\models\Curso.class
+org\hmorales\webapp\jaxws\services\ServicioWsImpl.class
